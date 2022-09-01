@@ -1,0 +1,18 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'geomanist', sans-serif;
+    font-weight: normal;
+    background-color: #121416;
+}
+@import 'plots/container';
+@import 'plots/flexbox';
+@import 'plots/links';
+@import 'plots/icons';
+@import 'plots/box';
+@import 'plots/text';
+@import 'plots/iphones';
+@import 'plots/imagens';
+@import 'plots/logo';
+@import 'plots/questions';
